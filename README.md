@@ -43,7 +43,7 @@ todo-list/
 ## ▶️ Getting Started
 
 1. **Clone the repository**
-git clone https://github.com/ShailyBhargava/todo-api-django.git
+git clone https://github.com/ShailyBhargava/django-todo-api/tree/main
 cd todo-api-django
 
 2. python -m venv venv
